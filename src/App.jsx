@@ -122,7 +122,7 @@ const DeviceListingApp = () => {
             {!loading && visibleCount < devices.length && (
               <div className="flex justify-center mt-6">
                 <button 
-                  className="bg-blue-500 hover:bg-blue-600 text-white font-medium py-2 px-6 rounded-md transition duration-200"
+                  className="border-2 border-solid bg-white hover:bg-gray-300 text-black font-medium py-2 px-6 rounded-md transition duration-200"
                   onClick={handleLoadMore}
                 >
                   Load More

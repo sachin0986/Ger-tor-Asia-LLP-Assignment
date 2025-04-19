@@ -7,8 +7,8 @@ const Header = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
-            <div className="h-[12px] w-[12px]">
-              <img src="https://gerator.io/gerator04-1@2x.d8e2cea2.png?1745086886514" alt="" />
+            <div className="p-8">
+            <img src="https://gerator.io/gerator04-1@2x.d8e2cea2.png?1745090399049" alt="" className="h-12 w-36"/>
             </div>
             <nav className="flex space-x-6">
               <div className="flex items-center">
