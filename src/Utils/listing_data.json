@@ -1,0 +1,554 @@
+{
+    "data": [
+      {
+        "id": 98,
+        "title": "PRE-OWNED / USED / CURRENTLY DE-INSTALLED 1991 11 HEALTH 411254 1/25-DIHYDROXY VITAMIN D3 IVD/ CONTROL FOR RENT/LEASE",
+        "createdAt": "2025-04-10T09:46:51.000Z",
+        "location": "54",
+        "price": "1500",
+        "tax_device_category": {
+          "name": "1/25-DIHYDROXY VITAMIN D3 IVD/ CONTROL"
+        },
+        "tax_oem": {
+          "name": "11 HEALTH"
+        },
+        "tax_post_status": {
+          "name": "Published",
+          "slug": "published"
+        },
+        "tax_transaction_type": {
+          "id": 1,
+          "name": "Rent/Lease",
+          "slug": "rent-lease"
+        },
+        "tax_clinical_application": {
+          "name": "Anesthesiology / Resusciation"
+        },
+        "tax_purpose_use": {
+          "name": "Patient / Transfer"
+        },
+        "tax_unit_measure_device_spare": {
+          "name": "USD - Per Unit"
+        },
+        "feature_image": {
+          "file_name": "1744278411760-W5a9kxgw7Z.webp"
+        },
+        "device_address": {
+          "addressTownCity": "Cedar Court",
+          "tax_country": {
+            "name": "Bolivia"
+          }
+        },
+        "device_user": {
+          "id": 22,
+          "displayName": "Frank Lewis",
+          "profile_image": {
+            "fileName": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741623857069-lmDV9aUyHv.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T191959Z&X-Amz-Expires=3600&X-Amz-Signature=7ace8f44c4cd2a1d5fe962dedbbc8f7431c96f163bbc3d657736991396c8cc93&X-Amz-SignedHeaders=host&x-id=GetObject"
+          }
+        },
+        "device_business": {
+          "id": 10,
+          "businessName": "Neural Engineering Researcher"
+        },
+        "featureImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1744278411760-W5a9kxgw7Z.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T190304Z&X-Amz-Expires=3600&X-Amz-Signature=d2cc52daa614122fb915a3e0998a42ac6c5414b93b6b3dda27387cf2c4802994&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "profileImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741623857069-lmDV9aUyHv.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T191959Z&X-Amz-Expires=3600&X-Amz-Signature=7ace8f44c4cd2a1d5fe962dedbbc8f7431c96f163bbc3d657736991396c8cc93&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "totalReviews": 0,
+        "totalRatingAvg": 0
+      },
+      {
+        "id": 96,
+        "title": "PRE-OWNED / USED / FULLY REFURBISHED 2023 DRAEGER MEDICAL 41125400 INCUBATOR SCALES FOR RENT/LEASE",
+        "createdAt": "2025-03-21T12:00:14.000Z",
+        "location": "123",
+        "price": "3000",
+        "tax_device_category": {
+          "name": "INCUBATOR SCALES"
+        },
+        "tax_oem": {
+          "name": "DRAEGER MEDICAL"
+        },
+        "tax_post_status": {
+          "name": "Published",
+          "slug": "published"
+        },
+        "tax_transaction_type": {
+          "id": 1,
+          "name": "Rent/Lease",
+          "slug": "rent-lease"
+        },
+        "tax_clinical_application": {
+          "name": "Oncology"
+        },
+        "tax_purpose_use": {
+          "name": "Patient / Monitoring"
+        },
+        "tax_unit_measure_device_spare": {
+          "name": "USD - Per Unit"
+        },
+        "feature_image": {
+          "file_name": "1742558414283-KER43bpBeo.webp"
+        },
+        "device_address": {
+          "addressTownCity": "London",
+          "tax_country": {
+            "name": "Austria"
+          }
+        },
+        "device_user": {
+          "id": 17,
+          "displayName": "Benjamin Peltier",
+          "profile_image": {
+            "fileName": "1741685453252-sToyH51RxO.webp"
+          }
+        },
+        "device_business": {
+          "id": 8,
+          "businessName": "Medical Equipment Solutions"
+        },
+        "featureImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742558414283-KER43bpBeo.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T191959Z&X-Amz-Expires=3600&X-Amz-Signature=b1d060af0d6ad299c2bce4f3b38b79699ce6071f8c82662ba04bc4cc19347d47&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "profileImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741685453252-sToyH51RxO.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T191959Z&X-Amz-Expires=3600&X-Amz-Signature=60197e44a6a0f52469489f3f002bb54ffa079e215ceddc20eabb208f6f3b07d9&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "totalReviews": 0,
+        "totalRatingAvg": 0
+      },
+      {
+        "id": 95,
+        "title": "NEW 2024 VARIAN ASSOCIATES 41120 CENTRALIZED PATIENT MONITOR FOR RENT/LEASE",
+        "createdAt": "2025-03-21T11:53:19.000Z",
+        "location": "125",
+        "price": "2000",
+        "tax_device_category": {
+          "name": "CENTRALIZED PATIENT MONITOR"
+        },
+        "tax_oem": {
+          "name": "VARIAN ASSOCIATES"
+        },
+        "tax_post_status": {
+          "name": "Published",
+          "slug": "published"
+        },
+        "tax_transaction_type": {
+          "id": 1,
+          "name": "Rent/Lease",
+          "slug": "rent-lease"
+        },
+        "tax_clinical_application": {
+          "name": "Oncology"
+        },
+        "tax_purpose_use": {
+          "name": "Patient / Monitoring"
+        },
+        "tax_unit_measure_device_spare": {
+          "name": "USD - Per Unit"
+        },
+        "feature_image": {
+          "file_name": "1742557999009-1NtiIoyRN7.webp"
+        },
+        "device_address": {
+          "addressTownCity": "Toronto",
+          "tax_country": {
+            "name": "Canada"
+          }
+        },
+        "device_user": {
+          "id": 17,
+          "displayName": "Benjamin Peltier",
+          "profile_image": {
+            "fileName": "1741685453252-sToyH51RxO.webp"
+          }
+        },
+        "device_business": {
+          "id": 8,
+          "businessName": "Medical Equipment Solutions"
+        },
+        "featureImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742557999009-1NtiIoyRN7.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T191959Z&X-Amz-Expires=3600&X-Amz-Signature=0341f09b92ede42b8f1491c335ddf43b523d0d261cf35c53c5eb471d0f85f1ec&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "profileImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741685453252-sToyH51RxO.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T191959Z&X-Amz-Expires=3600&X-Amz-Signature=60197e44a6a0f52469489f3f002bb54ffa079e215ceddc20eabb208f6f3b07d9&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "totalReviews": 1,
+        "totalRatingAvg": "3"
+      },
+      {
+        "id": 94,
+        "title": "NEW 2024 VARIAN ASSOCIATES 41120 CENTRALIZED PATIENT MONITOR FOR RENT/LEASE",
+        "createdAt": "2025-03-21T11:49:14.000Z",
+        "location": "125",
+        "price": "2000",
+        "tax_device_category": {
+          "name": "CENTRALIZED PATIENT MONITOR"
+        },
+        "tax_oem": {
+          "name": "VARIAN ASSOCIATES"
+        },
+        "tax_post_status": {
+          "name": "Published",
+          "slug": "published"
+        },
+        "tax_transaction_type": {
+          "id": 1,
+          "name": "Rent/Lease",
+          "slug": "rent-lease"
+        },
+        "tax_clinical_application": {
+          "name": "Oncology"
+        },
+        "tax_purpose_use": {
+          "name": "Patient / Monitoring"
+        },
+        "tax_unit_measure_device_spare": {
+          "name": "USD - Per Unit"
+        },
+        "feature_image": {
+          "file_name": "1742557754313-srw7STblYc.webp"
+        },
+        "device_address": {
+          "addressTownCity": "Toronto",
+          "tax_country": {
+            "name": "Canada"
+          }
+        },
+        "device_user": {
+          "id": 17,
+          "displayName": "Benjamin Peltier",
+          "profile_image": {
+            "fileName": "1741685453252-sToyH51RxO.webp"
+          }
+        },
+        "device_business": {
+          "id": 8,
+          "businessName": "Medical Equipment Solutions"
+        },
+        "featureImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742557754313-srw7STblYc.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T191959Z&X-Amz-Expires=3600&X-Amz-Signature=fd5080e4f1decd21027b8f79fce55eed91e88f4055063e0cf929472bd971c578&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "profileImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741685453252-sToyH51RxO.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T191959Z&X-Amz-Expires=3600&X-Amz-Signature=60197e44a6a0f52469489f3f002bb54ffa079e215ceddc20eabb208f6f3b07d9&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "totalReviews": 0,
+        "totalRatingAvg": 0
+      },
+      {
+        "id": 93,
+        "title": "PRE-OWNED / USED / PARTIALLY REFURBISHED 2022 1-800-TONGUES 4112 DENTAL IMPLANT SURGICAL TRAY (KIT) FOR RENT/LEASE",
+        "createdAt": "2025-03-21T11:45:05.000Z",
+        "location": "123",
+        "price": "1500",
+        "tax_device_category": {
+          "name": "DENTAL IMPLANT SURGICAL TRAY (KIT)"
+        },
+        "tax_oem": {
+          "name": "1-800-TONGUES"
+        },
+        "tax_post_status": {
+          "name": "Published",
+          "slug": "published"
+        },
+        "tax_transaction_type": {
+          "id": 1,
+          "name": "Rent/Lease",
+          "slug": "rent-lease"
+        },
+        "tax_clinical_application": {
+          "name": "Oncology"
+        },
+        "tax_purpose_use": {
+          "name": "Patient / Monitoring"
+        },
+        "tax_unit_measure_device_spare": {
+          "name": "USD - Per Unit"
+        },
+        "feature_image": {
+          "file_name": "1742557504977-fxvbXJoksC.webp"
+        },
+        "device_address": {
+          "addressTownCity": "London",
+          "tax_country": {
+            "name": "Austria"
+          }
+        },
+        "device_user": {
+          "id": 17,
+          "displayName": "Benjamin Peltier",
+          "profile_image": {
+            "fileName": "1741685453252-sToyH51RxO.webp"
+          }
+        },
+        "device_business": {
+          "id": 8,
+          "businessName": "Medical Equipment Solutions"
+        },
+        "featureImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742557504977-fxvbXJoksC.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T191959Z&X-Amz-Expires=3600&X-Amz-Signature=0d0fc6e9be117de0848419db2a6919d17c27b058d6c18388d38939c1b059c9a5&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "profileImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741685453252-sToyH51RxO.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T191959Z&X-Amz-Expires=3600&X-Amz-Signature=60197e44a6a0f52469489f3f002bb54ffa079e215ceddc20eabb208f6f3b07d9&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "totalReviews": 0,
+        "totalRatingAvg": 0
+      },
+    {
+        "id": 98,
+        "title": "PRE-OWNED / USED / CURRENTLY DE-INSTALLED 1991 11 HEALTH 411254 1/25-DIHYDROXY VITAMIN D3 IVD/ CONTROL FOR RENT/LEASE",
+        "createdAt": "2025-04-10T09:46:51.000Z",
+        "location": "54",
+        "price": "1500",
+        "tax_device_category": {
+            "name": "1/25-DIHYDROXY VITAMIN D3 IVD/ CONTROL"
+        },
+        "tax_oem": {
+            "name": "11 HEALTH"
+        },
+        "tax_post_status": {
+            "name": "Published",
+            "slug": "published"
+        },
+        "tax_transaction_type": {
+            "id": 1,
+            "name": "Rent/Lease",
+            "slug": "rent-lease"
+        },
+        "tax_clinical_application": {
+            "name": "Anesthesiology / Resusciation"
+        },
+        "tax_purpose_use": {
+            "name": "Patient / Transfer"
+        },
+        "tax_unit_measure_device_spare": {
+            "name": "USD - Per Unit"
+        },
+        "feature_image": {
+            "file_name": "1744278411760-W5a9kxgw7Z.webp"
+        },
+        "device_address": {
+            "addressTownCity": "Cedar Court",
+            "tax_country": {
+                "name": "Bolivia"
+            }
+        },
+        "device_user": {
+            "id": 22,
+            "displayName": "Frank Lewis",
+            "profile_image": {
+                "fileName": "1741623857069-lmDV9aUyHv.webp"
+            }
+        },
+        "device_business": {
+            "id": 10,
+            "businessName": "Neural Engineering Researcher"
+        },
+        "featureImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742555337808-N6bQAkP6WH.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T193230Z&X-Amz-Expires=3600&X-Amz-Signature=52d644ad8798cd0a3a8b97f968f3372ac2cf99482d368b988288ff965d576154&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "profileImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741623857069-lmDV9aUyHv.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T191959Z&X-Amz-Expires=3600&X-Amz-Signature=7ace8f44c4cd2a1d5fe962dedbbc8f7431c96f163bbc3d657736991396c8cc93&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "totalReviews": 0,
+        "totalRatingAvg": 0
+    },
+    {
+        "id": 96,
+        "title": "PRE-OWNED / USED / FULLY REFURBISHED 2023 DRAEGER MEDICAL 41125400 INCUBATOR SCALES FOR RENT/LEASE",
+        "createdAt": "2025-03-21T12:00:14.000Z",
+        "location": "123",
+        "price": "3000",
+        "tax_device_category": {
+            "name": "INCUBATOR SCALES"
+        },
+        "tax_oem": {
+            "name": "DRAEGER MEDICAL"
+        },
+        "tax_post_status": {
+            "name": "Published",
+            "slug": "published"
+        },
+        "tax_transaction_type": {
+            "id": 1,
+            "name": "Rent/Lease",
+            "slug": "rent-lease"
+        },
+        "tax_clinical_application": {
+            "name": "Oncology"
+        },
+        "tax_purpose_use": {
+            "name": "Patient / Monitoring"
+        },
+        "tax_unit_measure_device_spare": {
+            "name": "USD - Per Unit"
+        },
+        "feature_image": {
+            "file_name": "1742558414283-KER43bpBeo.webp"
+        },
+        "device_address": {
+            "addressTownCity": "London",
+            "tax_country": {
+                "name": "Austria"
+            }
+        },
+        "device_user": {
+            "id": 17,
+            "displayName": "Benjamin Peltier",
+            "profile_image": {
+                "fileName": "1741685453252-sToyH51RxO.webp"
+            }
+        },
+        "device_business": {
+            "id": 8,
+            "businessName": "Medical Equipment Solutions"
+        },
+        "featureImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742554828071-kLrNkO8tZu.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T193230Z&X-Amz-Expires=3600&X-Amz-Signature=73b235a2ae3c4dee73da4552af0007851eccf67b630f7d21b04b9691a264eef9&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "profileImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741685453252-sToyH51RxO.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T191959Z&X-Amz-Expires=3600&X-Amz-Signature=60197e44a6a0f52469489f3f002bb54ffa079e215ceddc20eabb208f6f3b07d9&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "totalReviews": 0,
+        "totalRatingAvg": 0
+    },
+    {
+        "id": 95,
+        "title": "NEW 2024 VARIAN ASSOCIATES 41120 CENTRALIZED PATIENT MONITOR FOR RENT/LEASE",
+        "createdAt": "2025-03-21T11:53:19.000Z",
+        "location": "125",
+        "price": "2000",
+        "tax_device_category": {
+            "name": "CENTRALIZED PATIENT MONITOR"
+        },
+        "tax_oem": {
+            "name": "VARIAN ASSOCIATES"
+        },
+        "tax_post_status": {
+            "name": "Published",
+            "slug": "published"
+        },
+        "tax_transaction_type": {
+            "id": 1,
+            "name": "Rent/Lease",
+            "slug": "rent-lease"
+        },
+        "tax_clinical_application": {
+            "name": "Oncology"
+        },
+        "tax_purpose_use": {
+            "name": "Patient / Monitoring"
+        },
+        "tax_unit_measure_device_spare": {
+            "name": "USD - Per Unit"
+        },
+        "feature_image": {
+            "file_name": "1742557999009-1NtiIoyRN7.webp"
+        },
+        "device_address": {
+            "addressTownCity": "Toronto",
+            "tax_country": {
+                "name": "Canada"
+            }
+        },
+        "device_user": {
+            "id": 17,
+            "displayName": "Benjamin Peltier",
+            "profile_image": {
+                "fileName": "1741685453252-sToyH51RxO.webp"
+            }
+        },
+        "device_business": {
+            "id": 8,
+            "businessName": "Medical Equipment Solutions"
+        },
+        "featureImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742493213115-zFeMJdGFRP.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T193230Z&X-Amz-Expires=3600&X-Amz-Signature=9ad3eaa3020ecfabf2021f7849e25238de3988969f651f04fa99a6560bdf9eeb&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "profileImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741623084565-V5XpXCgiVa.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T193230Z&X-Amz-Expires=3600&X-Amz-Signature=4cb01d8bed3553d082a101a9e7d7b8260518caf60281801c7eabfcbf29c3ee0c&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "totalReviews": 1,
+        "totalRatingAvg": "3"
+    },
+    {
+        "id": 94,
+        "title": "NEW 2024 VARIAN ASSOCIATES 41120 CENTRALIZED PATIENT MONITOR FOR RENT/LEASE",
+        "createdAt": "2025-03-21T11:49:14.000Z",
+        "location": "125",
+        "price": "2000",
+        "tax_device_category": {
+            "name": "CENTRALIZED PATIENT MONITOR"
+        },
+        "tax_oem": {
+            "name": "VARIAN ASSOCIATES"
+        },
+        "tax_post_status": {
+            "name": "Published",
+            "slug": "published"
+        },
+        "tax_transaction_type": {
+            "id": 1,
+            "name": "Rent/Lease",
+            "slug": "rent-lease"
+        },
+        "tax_clinical_application": {
+            "name": "Oncology"
+        },
+        "tax_purpose_use": {
+            "name": "Patient / Monitoring"
+        },
+        "tax_unit_measure_device_spare": {
+            "name": "USD - Per Unit"
+        },
+        "feature_image": {
+            "file_name": "1742557754313-srw7STblYc.webp"
+        },
+        "device_address": {
+            "addressTownCity": "Toronto",
+            "tax_country": {
+                "name": "Canada"
+            }
+        },
+        "device_user": {
+            "id": 17,
+            "displayName": "Benjamin Peltier",
+            "profile_image": {
+                "fileName": "1741685453252-sToyH51RxO.webp"
+            }
+        },
+        "device_business": {
+            "id": 8,
+            "businessName": "Medical Equipment Solutions"
+        },
+        "featureImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742490740164-bls2sxFKBq.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T193230Z&X-Amz-Expires=3600&X-Amz-Signature=955bd5d9337de6d4ce1698db5d31b379b47cd9d69552fc3aef2326edaf369a3a&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "profileImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741623084565-V5XpXCgiVa.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T193230Z&X-Amz-Expires=3600&X-Amz-Signature=4cb01d8bed3553d082a101a9e7d7b8260518caf60281801c7eabfcbf29c3ee0c&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "totalReviews": 0,
+        "totalRatingAvg": 0
+    },
+    {
+        "id": 93,
+        "title": "PRE-OWNED / USED / PARTIALLY REFURBISHED 2022 1-800-TONGUES 4112 DENTAL IMPLANT SURGICAL TRAY (KIT) FOR RENT/LEASE",
+        "createdAt": "2025-03-21T11:45:05.000Z",
+        "location": "123",
+        "price": "1500",
+        "tax_device_category": {
+            "name": "DENTAL IMPLANT SURGICAL TRAY (KIT)"
+        },
+        "tax_oem": {
+            "name": "1-800-TONGUES"
+        },
+        "tax_post_status": {
+            "name": "Published",
+            "slug": "published"
+        },
+        "tax_transaction_type": {
+            "id": 1,
+            "name": "Rent/Lease",
+            "slug": "rent-lease"
+        },
+        "tax_clinical_application": {
+            "name": "Oncology"
+        },
+        "tax_purpose_use": {
+            "name": "Patient / Monitoring"
+        },
+        "tax_unit_measure_device_spare": {
+            "name": "USD - Per Unit"
+        },
+        "feature_image": {
+            "file_name": "1742557504977-fxvbXJoksC.webp"
+        },
+        "device_address": {
+            "addressTownCity": "London",
+            "tax_country": {
+                "name": "Austria"
+            }
+        },
+        "device_user": {
+            "id": 17,
+            "displayName": "Benjamin Peltier",
+            "profile_image": {
+                "fileName": "1741685453252-sToyH51RxO.webp"
+            }
+        },
+        "device_business": {
+            "id": 8,
+            "businessName": "Medical Equipment Solutions"
+        },
+        "featureImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742490465362-Jost0Vbl6w.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T193230Z&X-Amz-Expires=3600&X-Amz-Signature=b60edbbaab33a2cc6932b508fb3b8f27ead907a5b16c759511152a1cc0d375fe&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "profileImage": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741623084565-V5XpXCgiVa.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250419%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250419T193230Z&X-Amz-Expires=3600&X-Amz-Signature=4cb01d8bed3553d082a101a9e7d7b8260518caf60281801c7eabfcbf29c3ee0c&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "totalReviews": 0,
+        "totalRatingAvg": 0
+    }
+]
+}
